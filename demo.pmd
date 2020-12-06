@@ -1,0 +1,25 @@
+---
+---
+
+# Demo
+
+## This index.md file
+```
+(> index.md <)
+```
+
+## Makefile
+```
+(> Makefile <)
+```
+
+## Script (script.sh)
+```
+(> scripts/script.sh <)
+```
+
+## Python Source Code (includeScript.py)
+```
+(> .program/includeScript.py <)
+```
+
