@@ -1,7 +1,9 @@
-# See Brice Fernandes
+# (c) 2011 Brice Fernandes. This script was ripped from 
 # https://fractallambda.com/2011/08/17/pincpy-including-files-and-script-output.html
+# Note: This script is outdated.  
+# The author uses Handlebars.js or Pystache for the same purpose.
 # Usage: 
-#     python .program/xx.py < test.md > out.md
+#     python .program/xx.py < in.pmd > out.md
 
 import sys
 import re
