@@ -1,25 +1,33 @@
 ---
 ---
+[[HOME](index.md)] [[GitHub](https://github.com/ThisIsHowMeDoIt/SandBox/)]
 
-# Demo
+# This Is How Me Do It (MD Code)!
 
-## This index.md file
+<br>
+## File "index.md"
 ```
 (> index.md <)
 ```
 
-## Makefile
+<br>
+## File "Makefile"
 ```
 (> Makefile <)
 ```
 
-## Script (script.sh)
+<br>
+## Script File "script.sh"
 ```
 (> scripts/script.sh <)
 ```
 
-## Python Source Code (includeScript.py)
+<br>
+## Python Source Code "includeScript.py"
 ```
 (> .program/includeScript.py <)
 ```
+
+<br>
+# Jolan Tru!
 

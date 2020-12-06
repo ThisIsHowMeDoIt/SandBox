@@ -1,23 +1,23 @@
 ---
 ---
+[[HOME](index.md)] [[GitHub](https://github.com/ThisIsHowMeDoIt/SandBox/)]
 
-# Demo
+# This Is How Me Do It (MD Code)!
 
-## This index.md file
+## File "index.md"
 ```
 ---
 ---
 
-# This Is How Me Do It
+# This Is How Me Do It!
 
 | [![This Is How Me Do It](https://img.youtube.com/vi/0hiUuL5uTKc/0.jpg)](https://www.youtube.com/watch?v=0hiUuL5uTKc) |
 
-
-* [INCLUDE DEMO FILE](demo.md)
+* [Source Code](demo.md)
 
 ```
 
-## Makefile
+## File "Makefile"
 ```
 # Sun 06 Dec 2020 22:11:04 WIB
 
@@ -26,7 +26,7 @@ demo.md: demo.pmd
 
 ```
 
-## Script (script.sh)
+## Script File "script.sh:
 ```
 #!/bin/bash
 
@@ -34,12 +34,14 @@ ls -al
 
 ```
 
-## Python Source Code (includeScript.py)
+## Python Source Code "includeScript.py"
 ```
-# See Brice Fernandes
+# (c) 2011 Brice Fernandes. This script was ripped from 
 # https://fractallambda.com/2011/08/17/pincpy-including-files-and-script-output.html
+# Note: This script is outdated.  
+# The author uses Handlebars.js or Pystache for the same purpose.
 # Usage: 
-#     python .program/xx.py < test.md > out.md
+#     python .program/xx.py < in.pmd > out.md
 
 import sys
 import re
@@ -75,4 +77,6 @@ if __name__ == "__main__":
       sys.stdout.write(line)
 
 ```
+
+# Jolan Tru!
 
