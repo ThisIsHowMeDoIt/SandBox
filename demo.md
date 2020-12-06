@@ -4,6 +4,7 @@
 
 # This Is How Me Do It (MD Code)!
 
+<br>
 ## File "index.md"
 ```
 ---
@@ -17,6 +18,7 @@
 
 ```
 
+<br>
 ## File "Makefile"
 ```
 # Sun 06 Dec 2020 22:11:04 WIB
@@ -26,7 +28,8 @@ demo.md: demo.pmd
 
 ```
 
-## Script File "script.sh:
+<br>
+## Script File "script.sh"
 ```
 #!/bin/bash
 
@@ -34,6 +37,7 @@ ls -al
 
 ```
 
+<br>
 ## Python Source Code "includeScript.py"
 ```
 # (c) 2011 Brice Fernandes. This script was ripped from 
@@ -78,5 +82,6 @@ if __name__ == "__main__":
 
 ```
 
+<br>
 # Jolan Tru!
 
